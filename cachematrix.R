@@ -1,3 +1,6 @@
+## Yee Keat Leong
+##R-programming Wk3 Asgn2
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
